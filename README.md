@@ -36,18 +36,41 @@
 
 ### ⚙️ Tools & Technologies
 
+### 🛠️ Languages & Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL"/>
+  </a>
+  <a href="https://fr.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" alt="MATLAB"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  </a>
 </p>
+
 
 ---
 
