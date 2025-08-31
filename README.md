@@ -2,14 +2,13 @@
 
 <p align="center">
   🎓 <strong>Computer Science Student</strong> | 💻 <strong>Front-end & Full-stack Enthusiast</strong><br>
-  Passionate about building creative, responsive and user-friendly web interfaces.
-</p>
+ 
 
 ---
 
 ### 🔍 About Me
 
-- 🎯 I’m a Computer Science student specializing in software engineering and information systems, with a strong passion for front-end development. I’m excited to bring my skills to a dynamic team and strive to infuse originality and enthusiasm into every project I work on.
+- 🎯 <strong>I’m a Computer Science student specializing in software engineering and information systems, with a strong passion for front-end development. I’m excited to bring my skills to a dynamic team and strive to infuse originality and enthusiasm into every project I work on.<strong>
 
 ---
 
