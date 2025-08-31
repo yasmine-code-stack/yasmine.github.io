@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="a990d3c1-55a6-4bad-9182-2fe4ee6606eb.png" width="200" alt="Yasmine Benamara Profile Picture"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm <strong>Yasmine Benamara</strong></h1>
 
 <p align="center">
@@ -13,10 +9,7 @@
 
 ### 🔍 About Me
 
-- 💡 I love designing elegant user interfaces and solving logical problems  
-- 🌱 I’m currently learning: **React**, **TypeScript**, **Flutter**  
-- 🔧 Technologies I use daily: HTML, CSS, JS, Python  
-- 🎯 Always eager to grow, collaborate, and build impactful projects
+- 🎯 I’m a Computer Science student specializing in software engineering and information systems, with a strong passion for front-end development. I’m excited to bring my skills to a dynamic team and strive to infuse originality and enthusiasm into every project I work on.
 
 ---
 
