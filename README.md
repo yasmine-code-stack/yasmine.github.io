@@ -59,8 +59,4 @@
 
 
 
-
-
----
-
-<p align="center"><i>“The best way to predict the future is to invent it.” – Alan Kay</i></p>
+<p align="center"><i><strong>“The best way to predict the future is to invent it.” – Alan Kay<strong></i></p>
