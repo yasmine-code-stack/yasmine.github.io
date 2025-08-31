@@ -4,13 +4,11 @@
   🎓 <strong>Computer Science Student</strong> | 💻 <strong>Front-end & Full-stack Enthusiast</strong><br>
  
 
----
 
 ### 🔍 About Me
 
 - 🎯 <strong>I’m a Computer Science student specializing in software engineering and information systems, with a strong passion for front-end development. I’m excited to bring my skills to a dynamic team and strive to infuse originality and enthusiasm into every project I work on.<strong>
 
----
 
 ### 📫 Connect with Me
 <p align="center">
@@ -22,7 +20,7 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" title="Visit my LinkedIn"/>
   </a>
 </p>
----
+
 
 ### 🛠️ Languages & Tools
 
@@ -60,7 +58,7 @@
 </p>
 
 
----
+
 
 
 ---
