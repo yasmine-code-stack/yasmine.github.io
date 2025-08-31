@@ -1,46 +1,65 @@
-# 👋 Hi, I'm Yasmine Benamara
+<p align="center">
+  <img src="a990d3c1-55a6-4bad-9182-2fe4ee6606eb.png" width="200" alt="Yasmine Benamara Profile Picture"/>
+</p>
 
-💻 Computer Science Student | Front-end enthusiast | Passionate about building creative and user-friendly interfaces.
+<h1 align="center">Hi 👋, I'm <strong>Yasmine Benamara</strong></h1>
 
-
----
-## 💬 Ask Me About
-
-- Front-end development (HTML, CSS, JS..)
-- Python scripting and problem-solving
-- Web back-end basics (PHP, SQL)
-- Academic & personal projects
-
----
-## 📫 How to Reach Me
-
-<a href="yasminebenamara95@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
-
-<a href="linkedin.com/in/yasmine-ben-amara-4b5b58317" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
+<p align="center">
+  🎓 <strong>Computer Science Student</strong> | 💻 <strong>Front-end & Full-stack Enthusiast</strong><br>
+  Passionate about building creative, responsive and user-friendly web interfaces.
+</p>
 
 ---
 
+### 🔍 About Me
 
-## 🛠️ Tools & Technologies
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+- 💡 I love designing elegant user interfaces and solving logical problems  
+- 🌱 I’m currently learning: **React**, **TypeScript**, **Flutter**  
+- 🔧 Technologies I use daily: HTML, CSS, JS, Python  
+- 🎯 Always eager to grow, collaborate, and build impactful projects
 
 ---
 
-> *“The best way to predict the future is to invent it.” – Alan Kay*
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:benamarayasmine@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://yasmine.github.io">
+    <img src="https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚙️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasminebenamara&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminebenamara&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center"><i>“The best way to predict the future is to invent it.” – Alan Kay</i></p>
