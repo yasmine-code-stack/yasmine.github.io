@@ -23,15 +23,13 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:benamarayasmine@example.com">
+  <a href="yasminebenamara95@gmail.com.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://linkedin.com/in/yasmine-ben-amara-4b5b58317">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://yasmine.github.io">
-    <img src="https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
@@ -53,12 +51,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasminebenamara&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminebenamara&layout=compact&theme=react&hide_border=true" width="48%" />
-</p>
 
 ---
 
